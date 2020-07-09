@@ -1,0 +1,43 @@
+*{
+    font-family: 'Raleway', sans-serif;
+
+}
+
+body{
+    background-image: url(https://images.unsplash.com/photo-1495419597644-19934b6b7c40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80);
+
+}
+
+p{
+    text-align: left;
+    margin: 50px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+
+}
+h1{
+    margin: 20px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+img{
+    float: left;
+    margin: 30px;
+}
+
+.navbar-custom{
+    background-color: mediumpurple;
+    padding: 20px;
+    
+}
+.navbar-brand{
+    color: black;
+    font-family:'Raleway', sans-serif;
+    ;
+}
+
+.img1{
+    display: block;
+}
+
